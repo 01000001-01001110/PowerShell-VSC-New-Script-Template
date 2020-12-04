@@ -29,13 +29,13 @@ function createPowershellTemplate
         $date = (get-date).ToString(‘M/d/y’)
         $data = @"
 <#
-Title:
-By: Alan Newingham
-Date: $date
-Initial Commit: 
-Git: 
-Notes: 
-Site: https://automateanddeploy.com
+     Title:
+     By: Alan Newingham
+     Date: $date
+     Initial Commit: 
+     Git: 
+     Notes: 
+     Site: https://automateanddeploy.com
 #>
 "@
         #Create the document 
