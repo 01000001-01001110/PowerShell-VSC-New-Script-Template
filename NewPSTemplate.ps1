@@ -3,7 +3,7 @@ Create a .PS1 template and open in visual studio code.
 By: Alan Newingham
 Date: 12/4/2020
 Initial Commit: 12/4/2020
-Git: 
+Git: https://github.com/01000001-01001110/PowerShell-VSC-New-Script-Template/blob/main/NewPSTemplate.ps1
 Notes: Writing this as I am tired of manually doing this work for multiple scripts daily.
 - Make sure $location matches where you keep your repos
 - Modifing the .ps1 file extension in the $location variable you can auto-create any number of different files with autopopulated data. 
